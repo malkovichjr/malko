@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-type="live" tvg-logo="http://url_of_poster.jpg" group-title="Live Events",Channel 1
+#EXTINF:-1 tvg-type="live" tvg-logo="http://url_of_poster.jpg" group-title="teste",Channel 1
 https://player.cineflix.club/mov_bbb.mp4
-#EXTINF:-1 tvg-type="movie" tvg-logo="http://url_of_poster.jpg" group-title="Action Movies",Movie Title
+#EXTINF:-1 tvg-type="movie" tvg-logo="http://url_of_poster.jpg" group-title="acao",Movie Title
 https://player.cineflix.club/mov_bbb.mp4
