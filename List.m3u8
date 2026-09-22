@@ -1,5 +1,5 @@
-#EXTM3U
 
-
-#EXTINF: 1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV",GLOBO SP 
+#EXTINF:-1 tvg-type="live" tvg-logo="http://url_of_poster.jpg" group-title="Live Events",Channel 1
+https://player.cineflix.club/mov_bbb.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="http://url_of_poster.jpg" group-title="Action Movies",Movie Title
 https://player.cineflix.club/mov_bbb.mp4
